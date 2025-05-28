@@ -1,4 +1,4 @@
-# c-primer-learning-
+# c++primer-learning 
 A greenhand's ideas and resources when learning c++ primer<br>
 
 **CHAPTER 1**<br>
