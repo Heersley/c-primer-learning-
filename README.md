@@ -1,3 +1,3 @@
 # c-primer-learning-
-A greenhand's ideas and resources when learning c++ primer-
+A greenhand's ideas and resources when learning c++ primer<br>
 In 1.5.1 you can download the "Sales_item.h" with this.
