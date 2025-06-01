@@ -44,3 +44,25 @@ int main()
     return 0;
 }
 ```
+**CHAPTER 2**<br>
+>In 2.2.2 you can learn the difference of declaration and definition.
+
+```
+extern int a;//declaration
+int b;//definition
+```
+
+>declaration does not save the varibility in the memory,while definition will save the varibility in the memory.<br>
+>so ,according to this spectifty,we could use a pointer to trace it and see what will happen.I think it is interesting.<br>
+***Here is the code***<br>
+```
+#include <iostream>    
+int main()    
+{    
+    
+   extern int b ;    
+   int *local= &b;    
+   std::cout<<local<<std::endl;    
+   return 0;    
+}    
+```
